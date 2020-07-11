@@ -1,0 +1,16 @@
+[{
+	"id": 1,
+	"name": "Mario",
+	"email": "mario@firebase.com",
+	"phone": "+62778111"
+}, {
+	"id": 2,
+	"name": "Susan",
+	"email": "susan@firebase.com",
+	"phone": "+62813900102"
+}, {
+	"id": 3,
+	"name": "Synn",
+	"email": "Synlo@firebase.com",
+	"phone": "+62819921"
+}]

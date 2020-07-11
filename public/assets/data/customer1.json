@@ -1,0 +1,12 @@
+{
+	"id": 1,
+	"name": "Mario",
+	"email": "mario@firebase.com",
+	"phone": "+62778111",
+	"city": "Medan",
+	"state": "Sumatera Utara",
+	"country": "Indonesia",
+	"organization": " PT suka Bersama",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Melayani sesuatu dengan terbaik"
+}
